@@ -1,0 +1,3 @@
+# JavaScript
+
+压缩包内集合了大量JavaScript写的各种实用按例Demo,适合对JavaScript有一定了解的朋友使用。
